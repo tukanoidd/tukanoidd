@@ -9,7 +9,7 @@
 - Live in: Netherlands
 - Speak in: English, Ukrainian, Russian
 - Hobbies: programming, gaming, skating
-- Favorite language: `Rust`
+- Favorite language: ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 <br>
 
