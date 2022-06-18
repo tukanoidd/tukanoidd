@@ -19,10 +19,11 @@
 - Professional Environemnt:
   - [Den of Thieves](https://denofthieves.nl/):  June 2021 - May 2022
 
+<br>
+
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tukanoidd&theme=algolia" alt="7oSkaaa" /></p>
 
-<br>
 <br>
 
 ## Connect with me
@@ -31,6 +32,8 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitalii-lukyanov-1b708616b/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tukanoid)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tukanoiddd)
+
+<br>
 
 ## 🛠️ My Skills
 
