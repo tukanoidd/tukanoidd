@@ -15,9 +15,10 @@
 
 ## Experience
 - Programming: 2016-*
-- Education: unfinished bachelor of [Game Design at Hanzehogeschool](https://www.hanze.nl/eng/education/engineering/school-of-communication-media--it/programmes/bachelor/communication-multimedia-design-(game-design-development)), Groningen, Netherlands, 2018-*
+- Education: unfinished bachelor of [Game Design at Hanzehogeschool](https://www.hanze.nl/eng/education/engineering/school-of-communication-media--it/programmes/bachelor/communication-multimedia-design-(game-design-development)), Groningen, Netherlands, 2018 - 2023 (dropped out)
 - Professional Environemnt:
   - [Den of Thieves](https://denofthieves.nl/):  June 2021 - May 2022
+  - [XparVision](https://www.xparvision.com/): May 2023 - present
 
 <br>
 
