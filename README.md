@@ -4,7 +4,7 @@
 
 ## :sassy_man:  About me
 - Name: Vitalii Lukyanov
-- Age: 23
+- Age: 24
 - From: Ukraine
 - Live in: Netherlands
 - Speak in: English, Ukrainian, Russian
