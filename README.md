@@ -128,5 +128,3 @@
 
 -----
 Credits: [7oSkaaa](https://github.com/7oSkaaa)
-
-Last Edited on: 18/06/2022
